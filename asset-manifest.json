@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sambit-Kumar-Mohanty-26/Movie-Explorer/static/css/main.7fa5a63b.css",
-    "main.js": "/Sambit-Kumar-Mohanty-26/Movie-Explorer/static/js/main.9d5c8e3d.js",
-    "static/js/453.d150de9e.chunk.js": "/Sambit-Kumar-Mohanty-26/Movie-Explorer/static/js/453.d150de9e.chunk.js",
-    "index.html": "/Sambit-Kumar-Mohanty-26/Movie-Explorer/index.html",
-    "main.7fa5a63b.css.map": "/Sambit-Kumar-Mohanty-26/Movie-Explorer/static/css/main.7fa5a63b.css.map",
-    "main.9d5c8e3d.js.map": "/Sambit-Kumar-Mohanty-26/Movie-Explorer/static/js/main.9d5c8e3d.js.map",
-    "453.d150de9e.chunk.js.map": "/Sambit-Kumar-Mohanty-26/Movie-Explorer/static/js/453.d150de9e.chunk.js.map"
+    "main.css": "/Movie-Explorer/static/css/main.7fa5a63b.css",
+    "main.js": "/Movie-Explorer/static/js/main.d80dc969.js",
+    "static/js/453.d150de9e.chunk.js": "/Movie-Explorer/static/js/453.d150de9e.chunk.js",
+    "index.html": "/Movie-Explorer/index.html",
+    "main.7fa5a63b.css.map": "/Movie-Explorer/static/css/main.7fa5a63b.css.map",
+    "main.d80dc969.js.map": "/Movie-Explorer/static/js/main.d80dc969.js.map",
+    "453.d150de9e.chunk.js.map": "/Movie-Explorer/static/js/453.d150de9e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7fa5a63b.css",
-    "static/js/main.9d5c8e3d.js"
+    "static/js/main.d80dc969.js"
   ]
 }
